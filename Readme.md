@@ -51,7 +51,11 @@
    30. creating interface (interface_1)  
    31. Assignment-3  
         eda playground link - https://www.edaplayground.com/x/6Xn6  
-   32.  
+   32. connecting interface to DUT using procedural assignment and combinational circuit (interface_comb_dut)   
+   33. connecting interface to DUT using continuous assignment (interface_comb_dut_cont)  
+   34. connecting interface to DUT : sequential circuit (interface_dut_seq)
+   35. connecting driver class to interface (driver_interface_connect)
+   36. complete link-1 code (tx---->gen---->drv---->intf---->DUT) (complete_link_1)
 
    ### SECTION - 6:- MONITOR AND SCOREBOARD:-  
 
