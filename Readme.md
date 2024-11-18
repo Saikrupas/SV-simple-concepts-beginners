@@ -1,4 +1,4 @@
-## LIST OF CODES(SYSTEM VERILOG):- (WRITING TESTBENCH FOR NEWBIES) -->> SIMPLE CONCEPTS FOR BEGINNERS
+## LIST OF CODES (SYSTEM VERILOG):- (WRITING  SV TESTBENCH FOR NEWBIES) -->> SIMPLE CONCEPTS OF SV FOR BEGINNERS
 &copy; saikrupas 
 
  ### SECTION - 1:- Class in System Verilog:-
@@ -47,7 +47,8 @@
    29. Assignment-2     (refer attached snippet for reference)  
         eda playground link - https://www.edaplayground.com/x/R63F  
 
-   ### SECTION - 5:- Interface:-     
+   ### SECTION - 5:- Interface:-   
+   ----    
    30. creating interface (interface_1)  
    31. Assignment-3  
         eda playground link - https://www.edaplayground.com/x/6Xn6  
@@ -57,12 +58,14 @@
    35. connecting driver class to interface (driver_interface_connect)
    36. complete link-1 code (tx---->gen---->drv---->intf---->DUT) (complete_link_1)
 
-   ### SECTION - 6:- MONITOR AND SCOREBOARD:-  
+   ### SECTION - 6:- MONITOR AND SCOREBOARD:-   
+   ----    
    37. Abstract idea about monitor and scoreboard (mon_scb_idea)  
    38. Adding transaction,interface along with monitor and scoreboard (add_trasinf_mon_scb)  
    39. Assignment-4  --> question   
 
    ### SECTION - 7:- ENVIRONMENT AND PROJECTS:-  
+   ----
    40. Overall summary till now  
      ![summary](SUMMARY-2.png) 
 
@@ -79,9 +82,23 @@
 
    46. Assignment-6 ----> (assignment_6_sec_7) (16-bit counter)  
 
-   47. complete testbench example-4: RAM (SV TB) ----> (RAM verification using SV TB) (RAM_tb.sv)
+   47. complete testbench example-4: RAM (SV TB) ----> (RAM verification using SV TB) (RAM_tb)  
 
+   48. adapting code to meet requirements p1 ---> (adapting_code_p1) (step 1: get a proper waveform)  
 
-  ### SECTION - 8:- USE OF A PROGRAM BLOCK:-        
+   49. adapting code to meet requirements p2 ---> (adapting_code_p2) (step 2: start working with the components)
+
+   50. adapting code to meet requirements p3---> (adapting_code_p3) (step 3: start working with the components) 
+
+   51.  adapting code to meet requirements p3---> (adapting_code_p4) (some additional add ons) 
+
+  ### SECTION - 8:- USE OF A PROGRAM BLOCK:-  
+  ----    
+
+  52. Program block understanding (program_block)  
+
+  ----  
+  ----
+
 
 
